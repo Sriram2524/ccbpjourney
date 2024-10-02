@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.chrono-con {
+  width: 100%;
+  height: 75vh;
+}
+.bg-container {
+  width: 100%;
+  min-height: 1oovh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.main-heading {
+  color: #1e293b;
+  font-size: 20px;
+  font-family: roboto;
+  font-weight: bold;
+  line-height: 1.5cm;
+}
+.ccbp {
+  font-size: 30px;
+  color: #171f46;
+  font-family: roboto;
+  padding-top: 20px;
+  line-height: 1.5cm;
+}
+.chrono {
+  width: 60%;
+}
